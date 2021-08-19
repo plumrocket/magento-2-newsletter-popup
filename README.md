@@ -1,1 +1,1 @@
-# magento-2-newsletter-popup-extension-
+# magento-2-newsletter-popup-extension
