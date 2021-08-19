@@ -1,1 +1,1 @@
-# magento-2-newsletter-popup-extension
+# Magento 2 Newsletter Popup Extension
