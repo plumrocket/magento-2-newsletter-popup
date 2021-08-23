@@ -78,7 +78,7 @@ Please, read the [full list of features of the Newsletter Popup extension](https
 
 Try out the extension’s demo:
 
-<a href="https://plumrocket.com/magento-newsletter-popup"><img width="168" height="54" src="https://user-images.githubusercontent.com/4431548/130101073-6a31e471-b7f2-4c0a-a96c-687ee359f45f.png"></a>
+<a href="https://demo2.plumrocket.net/live/newsletter-popup/"><img width="168" height="54" src="https://user-images.githubusercontent.com/4431548/130101073-6a31e471-b7f2-4c0a-a96c-687ee359f45f.png"></a>
 <br><br>
 
 ## Documentation
@@ -135,4 +135,4 @@ https://plumrocket.com/magento-newsletter-popup#change-log
 Plumrocket Inc. © 2021
 
 
-**Discover More Magento 2 Extensions on [Plumrocket Store](https://plumrocket.com/magento-extensions).**
+**Discover more Magento 2 Extensions on [Plumrocket Store](https://plumrocket.com/magento-extensions).**
